@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://amanx21.github.io/Comp2156",
+  "homepage": "https://amanx21.github.io/COMP2156",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amanx21/Comp2156"
+    "url": "https://github.com/amanx21/COMP2156"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amanx21/Comp2156/issues"
+    "url": "https://github.com/amanx21/COMP2156/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
